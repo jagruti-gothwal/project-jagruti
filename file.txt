@@ -1,2 +1,3 @@
 This is for git diff command
 This is a new line adding without push
+This is all about braches in git
