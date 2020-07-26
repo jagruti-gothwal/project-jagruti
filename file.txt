@@ -1,0 +1,2 @@
+This is for git diff command
+This is a new line adding without push
